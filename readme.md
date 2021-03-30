@@ -1,3 +1,3 @@
 # Natour Application
 
-Build using modern technologies: node:js, express, mongoDB, mongoose and friends 😊
+Build using modern technologies: Node.js, Express, MongoDB & More 😊
